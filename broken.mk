@@ -1,4 +1,4 @@
-$(call inherit-product, device/lge/d852/full_d852.mk)
+$(call inherit-product, device/lge/d851/full_d851.mk)
 
 $(call inherit-product, vendor/broken/config/common_full_phone.mk)
 
