@@ -5,7 +5,7 @@ $(call inherit-product, vendor/broken/config/common_full_phone.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/broken/config/nfc_enhanced.mk)
 
-PRODUCT_NAME := broken_d852
+PRODUCT_NAME := broken_d851
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g3" \
